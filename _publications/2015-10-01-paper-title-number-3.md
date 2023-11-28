@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "One-pot synthesis of carboxymethyl-dextran coated iron oxide nanoparticles (CION) for preclinical fMRI and MRA applications"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-CION
+date: 2021-09-29
+venue: 'Neuroimage'
+paperurl: '[https://www.nature.com/articles/s41598-017-09945-0](https://www.sciencedirect.com/science/article/pii/S1053811921004900)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We developed a simple, one-pot recipe to synthesize Carboxymethyl-dextran coated Iron Oxide Nanoparticles, namely, “CION”, suitable for preclinical CBV-MRI applications. Here we disseminate a step-by-step instruction of our one-pot synthesis protocol, which allows CION to be produced in laboratories with minimal cost. My contribution was characterization of different CION-conjugations by manipulating polymer to metal ratio in terms of their size, and shifts in MR relaxivity. I also worked on demonstrating CION can serve as a cross-modality research platform by showing concurrent in vivo optical and MRI measurement of CBV using fluorescent-labeled CION. The simplicity and cost-effectiveness of our one-pot synthesis method should allow researchers to reproduce CION and tailor the relaxivity and pharmacokinetics according to their imaging needs.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here]([https://www.sciencedirect.com/science/article/pii/S1053811921004900))
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Das, Manasmita, Esteban A. Oyarzabal, **Lars Chen**, Sung-Ho Lee, Neal Shah, Gabby Gerlach, Weiting Zhang et al. "One-pot synthesis of carboxymethyl-dextran coated iron oxide nanoparticles (CION) for preclinical fMRI and MRA applications." Neuroimage 238 (2021): 118213.
