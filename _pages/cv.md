@@ -13,27 +13,31 @@ Education
 ======
 * B.A. in Mathematics, University of North Carolina - Chapel Hill, 2019
 * B.S. in Biomedical and Health Sciences Engineering, University of North Carolina - Chapel Hill, 2019
-* M.S. in Computational Neuroscience, University of North Carolina, 2024 (expected)
+* M.S. in Computational Neuroscience, Technical University of Berlin, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  Winter 2022 to Present: Graduate Research Assistant
+  * Humboldt Universität zu Berlin
+  * Duties included: Numerical simulations and analysis of sparse activitiy and its effect on memory capacity in binary, associative networks
+  * Supervisor: Prof. Kempter
+    
+* Fall 2016 to Summer 2019: Undergraduate Research Assistant
+  * University of North Carolina - Chapel Hill
+  * Duties included: Synthesizing and characterizing novel contrast agents for MRI
+  * Supervisor: Prof. Shih
+    
+* Summer 2016: NSF REU
+  * University of North Carolina - Charlotte
+  * Duties included: Validating differential gene expression from RNA-seq using qPCR 
+  * Supervisor: Prof. Song
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python
+  * Sub-skill Torch
+  * Sub-skill Numpy
+  * Sub-skill Pyro-PPL
 * Skill 3
 
 Publications
