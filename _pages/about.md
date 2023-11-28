@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie in the application of probabilistic machine learning and the integration of causal information to learn from biomedical data. Questions in biomedical research are often inherently causal in nature. I apply deep probabilistic methods to generate answers to hypothetical questions by integrating causal information. 
+My research interests lie in the application of probabilistic machine learning and the integration of causal information to learn from biomedical data. I am currently applying deep probabilistic methods to generate counterfactual images. 
