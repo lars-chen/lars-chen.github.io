@@ -1,7 +1,7 @@
 ---
 title: 'Learning Barrier Certificates'
 date: 2023-03-20
-permalink: /posts/2023/003/Barrier-Certificates-RL/
+permalink: https://lars-chen.github.io/rl-blog/posts/2023/03/learning-barrier-certificates/
 tags:
   - cool posts
   - category1
