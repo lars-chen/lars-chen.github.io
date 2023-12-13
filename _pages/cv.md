@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computational Neuroscience, Technical University of Berlin, 2024 (expected)
 * B.A. in Mathematics, University of North Carolina - Chapel Hill, 2019
 * B.S. in Biomedical and Health Sciences Engineering, University of North Carolina - Chapel Hill, 2019
 * B.S. in Biomedical and Health Sciences Engineering, North Carolina State University, 2019
-* M.S. in Computational Neuroscience, Technical University of Berlin, 2024 (expected)
 
 Research experience
 ======
