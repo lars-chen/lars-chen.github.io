@@ -18,17 +18,17 @@ Education
 
 Research experience
 ======
-*  Winter 2023 to present: Lab Rotation
+* Winter 2023 to present: Lab Rotation
   - Technical University of Berlin
   - Duties included: Constructed a balanced latent variable model using VAE for fair facial image generation. 
      Supervisor: Dr. Abel Wu & Prof. Klaus Robert Müller
 
-*  Winter 2022 to Summer 2023: Lab Rotation
+* Winter 2022 to Summer 2023: Lab Rotation
   - Charité Medical University
   - Duties included: Constructed a deep structural causal model for causal inference of MR images of brains with multiple sclerosis. Project was extended as an upcoming master's thesis.
   - Supervisor: Prof. Ritter
     
-*  Winter 2022 to Present: Graduate Research Assistant & Lab Rotation
+* Winter 2022 to Present: Graduate Research Assistant & Lab Rotation
   - Humboldt University at Berlin
   - Duties included: Numerical simulations and analysis of sparse activity and its effect on memory capacity in binary, associative networks. Grading of Models of Neural Systems computer practical and supervision of the final project.
   - Supervisor: Prof. Kempter
