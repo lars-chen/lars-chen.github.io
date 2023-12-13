@@ -13,13 +13,24 @@ Education
 ======
 * B.A. in Mathematics, University of North Carolina - Chapel Hill, 2019
 * B.S. in Biomedical and Health Sciences Engineering, University of North Carolina - Chapel Hill, 2019
+* B.S. in Biomedical and Health Sciences Engineering, North Carolina State University, 2019
 * M.S. in Computational Neuroscience, Technical University of Berlin, 2024 (expected)
 
 Research experience
 ======
-*  Winter 2022 to Present: Graduate Research Assistant
-  * Humboldt Universität zu Berlin
-  * Duties included: Numerical simulations and analysis of sparse activitiy and its effect on memory capacity in binary, associative networks
+*  Winter 2023 to present: Lab Rotation
+  * Technical University of Berlin
+  * Duties included: Constructed a balanced latent variable model using VAE for fair facial image generation. 
+  * Supervisor: Dr. Abel Wu & Prof. Klaus Robert Müller
+
+*  Winter 2022 to Summer 2023: Lab Rotation
+  * Charité Medical University
+  * Duties included: Constructed a deep structural causal model for causal inference of MR images of brains with multiple sclerosis. Project was extended as an upcoming master's thesis.
+  * Supervisor: Prof. Ritter
+    
+*  Winter 2022 to Present: Graduate Research Assistant & Lab Rotation
+  * Humboldt University at Berlin
+  * Duties included: Numerical simulations and analysis of sparse activity and its effect on memory capacity in binary, associative networks. Grading of Models of Neural Systems computer practical and supervision of the final project.
   * Supervisor: Prof. Kempter
     
 * Fall 2016 to Summer 2019: Undergraduate Research Assistant
@@ -27,18 +38,18 @@ Research experience
   * Duties included: Synthesizing and characterizing novel contrast agents for MRI
   * Supervisor: Prof. Shih
     
-* Summer 2016: NSF REU
+* Summer 2016: National Science Foundation REU
   * University of North Carolina - Charlotte
-  * Duties included: Validating differential gene expression from RNA-seq using qPCR 
+  * Duties included: Validating differential gene expression from RNA-seq using qPCR correlation
   * Supervisor: Prof. Song
   
 Skills
 ======
-* Python
-  * Sub-skill Torch
-  * Sub-skill Numpy
-  * Sub-skill Pyro-PPL
-* Skill 3
+* Python: Torch, Numpy, Pyro-PPL
+* Julia
+* SQL
+* Matlab
+
 
 Publications
 ======
@@ -54,8 +65,10 @@ Publications
   
 Teaching
 ======
-
+* Tutoring for computational neuroscience math-prep course
+* Grading for Models of Neural Systems computer practicals & supervision of final project
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Research Ambassador at UNC-Chapel Hill's Office of Undergraduate Research
+* Mixed Asian Student Heritage
