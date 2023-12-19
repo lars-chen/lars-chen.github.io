@@ -1,6 +1,6 @@
 ---
 title: "Learning Barrier Certificates"
-excerpt: "We investigate a method in RL for learning rewards close to unsafe states in continuous environments with zero training time error and see how well it adapts to higher-dimensions.  1<br/><img src='/images/500x300.png'>"
+excerpt: "We investigate a method in RL for learning rewards close to unsafe states in continuous environments with zero training time error and see how well it adapts to higher dimensions.  <br/><img src='/images/500x300.png'>"
 collection: portfolio
 permalink: /rl-blog/
 ---
