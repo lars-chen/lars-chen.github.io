@@ -1,7 +1,20 @@
 ---
-title: "Learning Barrier Certificates"
-date: 2023-03-20
-layout: page
-permalink: /rl-blog
+title: 'Learning Barrier Certificates in Mujoco'
+date: 2015-08-14
+permalink: /rl-blog/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
